@@ -40,8 +40,6 @@ Ask about something the documents don't cover and you get
 `"refused": true`, no citations, and "I don't have enough information to answer
 that."
 
-![A refusal: the parental leave question, which the documents don't answer](docs/screenshot-refusal.png)
-
 The test corpus is a fictional company's policy pack provided by the bootcamp: an
 employee handbook, expenses, security, IT and facilities policies, and a product
 spec. Six documents, 73 chunks. It's course material, so it isn't included here
