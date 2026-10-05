@@ -1,0 +1,7 @@
+fastapi[standard]
+httpx
+openai
+python-dotenv
+streamlit
+langchain-text-splitters
+pinecone
